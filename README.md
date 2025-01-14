@@ -1,4 +1,4 @@
-# Migratapalooza Cast Highlight and Cast Imaging - Applications
+# CAST AWS HACKATHON Cast Highlight and Cast Imaging - Applications
 
 The following applications, along with their properties and business context, are provided for the hackathon. 
 
